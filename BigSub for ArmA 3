@@ -1,0 +1,3 @@
+
+
+submarine = "Submarine_01_F" createVehicle position sdv; submarine attachTo [sdv,[0,0,0]]; submarine setDir 180;
