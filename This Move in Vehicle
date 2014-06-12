@@ -1,0 +1,8 @@
+this moveInCargo nameOfYourBoat;
+
+this moveInDriver nameOfYourBoat;
+
+
+or
+
+medic1 moveInCargo nameOfYourBoat;
